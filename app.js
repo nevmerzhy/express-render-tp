@@ -101,7 +101,7 @@ const getHtml = (views, mode) => `
   </head>
   <body>
     <section>
-      <h1>Hello from Render!</h1>
+      <h1>Bienvenue sur le Cloud de!</h1>
       <span class="count">${views}</span>
       <div class="mode">${mode}</div>
       <p style="color: gray; font-size: 0.8em; margin-top: 20px;">
